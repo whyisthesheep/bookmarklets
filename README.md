@@ -1,2 +1,2 @@
-# bookmarklets
-Some self made bookmarklets
+# Bookmarklets
+Some self made bookmarklets all encoded in base64
